@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1642143698 source:c:\users\bianc\desktop\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<limits.h>
+
+1642165522 source:c:\users\bianc\onedrive\desktop\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<cstring>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<limits.h>
+
